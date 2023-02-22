@@ -1,4 +1,3 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-c94aa04cf17c1a8034651d98d180874d)](https://github.com/Renal-D)
 <h2> Assalamu'alaikum🙏🏻, I'm Renaldi Dwi Saputra! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA2MTA3ZmMzYmIxMWQ0YjUxNGE5NTk2OTI0ZTIzZGJiOWZkMDM2NSZjdD1z/e2HHUuc4x2VaHIhjlf/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE0MWIwNzYxYzNlNDVjOTVkYzA0YTBkYmMxZjQ4ODk2ODM2N2RkZiZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="230">
 <p><em>Data Enthusiast at <a href="#">Freelancer
