@@ -1,6 +1,6 @@
 <h2> Assalamu'alaikum🙏🏻, I'm Renaldi Dwi Saputra! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA2MTA3ZmMzYmIxMWQ0YjUxNGE5NTk2OTI0ZTIzZGJiOWZkMDM2NSZjdD1z/e2HHUuc4x2VaHIhjlf/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE0MWIwNzYxYzNlNDVjOTVkYzA0YTBkYmMxZjQ4ODk2ODM2N2RkZiZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="230">
-<p><em>Data Enthusiast at <a href="#">Freelancer
+<p><em>Data Enthusiast
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -11,12 +11,6 @@
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 
-👇 Hit in your console or terminal to connect with me.
-
-```cmd
-pip install renaldi
-```
-**👆 This command line tool can be found at [pip install renaldi](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.tenor.com/9v_n2SdC8egAAAAi/blade-storm-jett.gif" width="50"> A little more about me...  
 
