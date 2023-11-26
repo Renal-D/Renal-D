@@ -19,7 +19,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 # -*- coding: utf-8 -*-
 
 
-class DataScientist:
+class PersonalID:
 
     def __init__(self):
         self.name = "Renaldi Dwi Saputra"
@@ -33,7 +33,7 @@ class DataScientist:
         print("Universitas Negeri Malang
                Bachelor of Science", "2018-2022")
     
-me = DataScientist()
+me = PersonalID()
 me.say_hi()
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> 
