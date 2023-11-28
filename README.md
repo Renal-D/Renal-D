@@ -19,7 +19,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 # -*- coding: utf-8 -*-
 
 
-class PersonalID:
+class PersonalData:
 
     def __init__(self):
         self.name = "Renaldi Dwi Saputra"
@@ -33,7 +33,7 @@ class PersonalID:
         print("Universitas Negeri Malang
                Bachelor of Science", "2018-2022")
     
-me = PersonalID()
+me = PersonalData()
 me.say_hi()
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> 
@@ -47,7 +47,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) 
